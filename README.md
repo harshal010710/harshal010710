@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harshal-patil) 
+[![LinkedIn](![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06))](https://linkedin.com/in/harshal-patil) 
 [![LeetCode](https://upload.wikimedia.org/wikipedia/commons/a/ab/LeetCode_logo_white_no_text.svg?style=flat&logo=c%2B%2B&logoColor=white)](https://leetcode.com/harshal_patil_173/)
 
 # 💻 Tech Stack:
