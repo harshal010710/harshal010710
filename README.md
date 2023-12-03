@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning MERN STACK <br>
+🌱 I’m currently learning MEAN STACK <br>
 
 
 ## 🌐 Socials:
