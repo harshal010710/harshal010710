@@ -1,4 +1,4 @@
-# 💫 About Me: Harshal
+# About Me: Harshal 👨‍💻
 🌱 I’m student from india currently exploring new Tech-Stack <br>
 
 
