@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/harshal010703" target="blank"><img align="center" src="https://img.shields.io/twitter/follow/harshal010703?style=social&logo=twitter" alt="harshal010703" /></a>
+  <a href="https://twitter.com/HARSHAL010703" target="blank"><img align="center" src="https://img.shields.io/twitter/follow/HARSHAL010703?style=social&logo=twitter" alt="harshal010703" /></a>
   <a href="https://linkedin.com/in/harshal-patil" target="blank"><img align="center" src="https://img.shields.io/badge/-harshal--patil-blue?style=flat-square&logo=linkedin&logoColor=white" alt="harshal-patil" /></a>
   <a href="https://www.hackerrank.com/harshalpatil1237" target="blank"><img align="center" src="https://img.shields.io/badge/-harshalpatil1237-2EC866?style=flat-square&logo=hackerrank&logoColor=white" alt="harshalpatil1237" /></a>
   <a href="https://www.leetcode.com/harshal_patil_173" target="blank"><img align="center" src="https://img.shields.io/badge/-harshal__patil__173-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="harshal_patil_173" /></a>
