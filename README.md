@@ -2,7 +2,7 @@
 <h3 align="center">A passionate computer science student from India</h3>
 
 - 🌱 I’m currently learning **MEAN Stack**
-
+  
 - 💬 Ask me about **Angular**
 
 - 📫 How to reach me **harshalpatil1237@gmail.com**
