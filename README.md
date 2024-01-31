@@ -46,6 +46,18 @@
   
   <strong>Operating System:</strong>
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=white" alt="Linux"/>
+
+<p align="left">
+  <strong>Cloud Services:</strong>
+  <img src="https://img.shields.io/badge/-Amazon%20Web%20Services (AWS)-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS"/>
+  <!-- Add badges for other cloud services like Azure and GCP if you use them -->
+
+  <strong>Other Tools:</strong>
+  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman"/>
+  <!-- Add badges for other tools you frequently use -->
+</p>
+
 </p>
 
 <p align="center">
