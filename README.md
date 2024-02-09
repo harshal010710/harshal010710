@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Harshal 👨‍💻 </h1>
 <h3 align="center">A passionate computer science student from India</h3>
 
-- 🌱 I’m currently learning **MEAN Stack** 
+- 🌱 I’m currently learning **MEAN Stack**  
   
 - 💬 Ask me about **Angular**
 
